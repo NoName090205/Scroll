@@ -1,0 +1,11 @@
+﻿  Scroll2.cpp
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(38,72): warning C4100: lpCmdLine: неиспользованный формальный параметр
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(38,51): warning C4100: hPrevInstance: неиспользованный формальный параметр
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(78,46): warning C4100: hdc: неиспользованный формальный параметр
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(148,22): warning C4456: объявление "si" скрывает предыдущее локальное объявление
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(128,16): message : см. объявление "si"
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(183,22): warning C4456: объявление "si" скрывает предыдущее локальное объявление
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(128,16): message : см. объявление "si"
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(134,9): warning C4189: scrollY: локальная переменная инициализирована, но не использована
+C:\Users\kudra\source\repos\Scroll2\Scroll2\Scroll2.cpp(132,9): warning C4189: scrollX: локальная переменная инициализирована, но не использована
+  Scroll2.vcxproj -> C:\Users\kudra\source\repos\Scroll2\x64\Debug\Scroll2.exe
